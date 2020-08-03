@@ -26,7 +26,7 @@ footer{
 /*   position: fixed; */
   bottom: 0px;
   width: 100%;
-  background: #111;
+  background: #e50914;
 }
 .main-content{
   display: flex;
@@ -38,7 +38,7 @@ footer{
 .box h2{
   font-size: 1.125rem;
   font-weight: 600;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 .box .content{
   margin: 20px 0 0 0;
@@ -94,7 +94,7 @@ footer{
   cursor: pointer;
 }
 .center .content .fas:hover{
-  background: #f12020;
+  background: #ffeb3b;
 }
 .center .content .text{
   font-size: 1.0625rem;
